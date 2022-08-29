@@ -1,2 +1,1 @@
-# ftw
-website FTW
+# website firma toegevoegde waarden 

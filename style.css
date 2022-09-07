@@ -127,7 +127,7 @@ main {
   padding-left: 10px;
   margin-bottom: 80px;
   margin-top:20px;
-  overflow:scroll;
+  overflow:auto;
   scroll-behavior:smooth;
 }
 

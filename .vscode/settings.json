@@ -1,0 +1,8 @@
+{
+    "editor.fontFamily": "Fira Code,  'Courier New', monospace",
+    "workbench.iconTheme": "vs-minimal",
+    "workbench.colorTheme": "Community Material Theme Darker",
+    "workbench.preferredDarkColorTheme": "Community Material Theme Darker",
+    "typescript.inlayHints.enumMemberValues.enabled": false,
+    "workbench.editor.showIcons": false
+}

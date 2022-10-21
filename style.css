@@ -41,7 +41,7 @@ h1 {
 
 .top-text {
   color: rgb(144, 144, 144);
-  font-size: 14px;
+  font-size: 16px;
   margin-bottom: 12px;
   padding-left: 20px;
 }
@@ -58,6 +58,7 @@ h1 {
 nav {
     font-family: "Overpass Mono";
     padding-left: 10px;
+    padding-bottom: 50px;
 }
 
 nav ul {
@@ -110,7 +111,7 @@ nav ul {
 
 .links {
     display:flex;
-    font-size: 14px;
+    font-size: 16px;
 }
 
 .divider {
@@ -136,6 +137,7 @@ main {
   padding-right: 12px;
   text-align:left;
   font-size: 16;
+  color: rgb(144, 144, 144);
   overflow-wrap: break-word;
   line-height: 2;
 }

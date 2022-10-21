@@ -8,7 +8,7 @@ body {
   flex-direction:column;
   padding: 0;
   margin: 0;
-  align-items: center;
+  align-items: left;
   font-family: "Overpass Mono", Helvetica;
   background-color: #F3F3F4;
 }
@@ -19,6 +19,7 @@ header {
   flex-direction: column;
   justify-content: center;
   align-items: left;
+  padding-left: 5%;
   flex-wrap: wrap;
   background-color: #F4F4F4;
   margin-top: 5vh;
@@ -123,8 +124,8 @@ nav ul {
 main {
   display:flex;
   flex-flow:column nowrap;
-  width: 70vw;
-  padding-left: 10px;
+  padding-left: 6%;
+  width: 800px;
   margin-bottom: 80px;
   margin-top:20px;
   overflow:auto;
@@ -134,8 +135,9 @@ main {
 .content-text {
   padding-right: 12px;
   text-align:left;
-  font-size: 14px;
+  font-size: 16;
   overflow-wrap: break-word;
+  line-height: 2;
 }
 
 .footer {
